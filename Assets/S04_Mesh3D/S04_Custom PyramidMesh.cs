@@ -19,6 +19,7 @@ public class S04_PyramidMesh : MonoBehaviour
         {
             // 아랫면 y=0면 반1
             0, 1, 2,
+            // 아랫면 y=0면 반2
             1, 3, 2,
             // 옆면1
             0, 4, 1,
